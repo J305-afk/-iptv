@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="J305 logo">
+  <rect width="512" height="512" fill="#050505"/>
+  <g transform="translate(50 35)">
+    <path d="M72 202c0-70 54-126 124-126h116c70 0 124 56 124 126v20c0 82-66 148-148 148H220c-55 0-100-45-100-100V202Z" fill="#d9ff00"/>
+    <g fill="#d9ff00">
+      <path d="M156 62 L133 88 L142 101 L176 67 Z"/>
+      <path d="M328 62 L351 88 L342 101 L308 67 Z"/>
+    </g>
+    <path d="M132 218h198v36H132z" fill="#050505" opacity="0.08"/>
+    <text x="256" y="305" text-anchor="middle" font-size="152" font-weight="900" font-family="Arial, Helvetica, sans-serif" fill="#050505" letter-spacing="-10">J305</text>
+  </g>
+</svg>
